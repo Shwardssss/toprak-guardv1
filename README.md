@@ -15,7 +15,7 @@ Sorun Olursa: toprak#0001
 
 # Önemli
 
-Proje bana aittir izinsiz paylaşılması yasaktır. Bazı hatalar vardır botta onları size bıraktım çözebilirsiniz. Hataları çözemezseniz Discord adresimden ulaşabilirsiniz. Daha iyisini yakında paylaşıcam bu sadece basit bir v13 Slash Commands moderasyon botudur içinde context menüde vardır. Stara basmayı unutmayın :))
+Proje bana aittir izinsiz paylaşılması yasaktır. Bazı hatalar vardır botta onları size bıraktım çözebilirsiniz. Hataları çözemezseniz Discord adresimden ulaşabilirsiniz. Daha iyisini yakında paylaşıcam bu sadece basit bir guard botudur. Stara basmayı unutmayın :))
 
 
 # Sunucumuz
