@@ -1,0 +1,25 @@
+{
+    
+    
+    "botOwner":"903625877353553950",
+    "botPrefix":"",
+    "botToken":"",
+    "guildID":"",
+    "sesamk":"",
+    "sunucu":" #TOPRAK",
+    "sunucubanner":"",
+    "sunucuresim":"",
+    "logChannelID":"",
+    "channelGuard":true,
+    "roleGuard":true,
+    "serverGuard":true,
+    "botGuard":true,
+    "banGuard":true,
+    "kickGuard":true,
+    "whitelist":[],
+    "boosterRole":"",
+    "jailRole":""
+
+
+
+}
